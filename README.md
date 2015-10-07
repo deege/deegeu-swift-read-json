@@ -2,6 +2,8 @@
 
 The purpose of this repository is to supplement the video with code.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZChsFZsgIk" frameborder="0" allowfullscreen></iframe>
+
 ## Getting started
 
 Each main section listed below, has a corresponding directory. Inside the directory, there is a subdirectory for each video source code.
