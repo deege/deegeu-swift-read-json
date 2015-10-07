@@ -2,7 +2,7 @@
 
 The purpose of this repository is to supplement the video with code.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tZChsFZsgIk" frameborder="0" allowfullscreen></iframe>
+[![How to read JSON in Swift 2.0](http://img.youtube.com/vi/tZChsFZsgIk/0.jpg)](http://www.youtube.com/watch?v=tZChsFZsgIk)
 
 ## Getting started
 
